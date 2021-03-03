@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\senna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\senna\\.nuget\\packages"
+    ]
+  }
+}
